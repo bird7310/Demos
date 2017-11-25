@@ -7,7 +7,10 @@ import com.android.volley.Response;
 import com.android.volley.toolbox.Volley;
 
 /**
- * Created by Administrator on 2015/2/6.
+ * Description: TODO
+ *
+ * @author: moto
+ * @time: 17/11/22 下午2:43
  */
 public class VolleyRequest {
     private static RequestQueue mRequestQueue;

@@ -24,7 +24,7 @@ public class WeatherModelImpl implements WeatherModel {
                     public void onResponse(Weather weather) {
 
                         Utils.delay(1000);
-                        
+
                         if (weather != null) {
                             listener.onSuccess(weather);
                         } else {

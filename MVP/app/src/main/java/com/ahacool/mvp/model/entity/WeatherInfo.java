@@ -1,8 +1,12 @@
 package com.ahacool.mvp.model.entity;
 
 /**
- * Created by Administrator on 2015/2/6.
+ * Description: TODO
+ *
+ * @author: moto
+ * @time: 17/11/22 下午2:38
  */
+
 public class WeatherInfo {
     private String city;
     private String cityid;

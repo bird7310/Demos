@@ -13,9 +13,10 @@ import com.google.gson.reflect.TypeToken;
 import java.io.UnsupportedEncodingException;
 
 /**
- * @param <T>
- * @author Mr.Zheng
- * @date 2014年10月18日 下午9:25:19
+ * Description: TODO
+ *
+ * @author: moto
+ * @time: 17/11/22 下午2:43
  */
 public class GsonRequest<T> extends Request<T> {
 
