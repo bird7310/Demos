@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/52784531ae54b90b37f7c70181a8f333/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/moto/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb9d468dd544122573ffb051c9b0372f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:11-36
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/52784531ae54b90b37f7c70181a8f333/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/52784531ae54b90b37f7c70181a8f333/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/moto/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb9d468dd544122573ffb051c9b0372f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/moto/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb9d468dd544122573ffb051c9b0372f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:8:9-39
+activity#com.ahacool.mvp.ui.activity.MainActivity
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:15:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/52784531ae54b90b37f7c70181a8f333/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/52784531ae54b90b37f7c70181a8f333/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/moto/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb9d468dd544122573ffb051c9b0372f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/moto/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb9d468dd544122573ffb051c9b0372f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/moto/Documents/Code/Git/Demos/MVP/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c4a52fde474261dc211897adc28f64cf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/51961af9b9a926e818e7610ecc699a98/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0cf86ddf1d2ffdf070cfd87e315f303d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad60d1042f8131bb3b7f7c348afe348b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/59b48a1a3d83c48832987b005d65faf6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a12d14c4cb677acb4c06457472a25f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/980c24686a86657d42eec6e5dbb84174/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/345a1b9d713cd0975f7d1c2efa1ae3d4/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/08faf69506b4216df610d9b8a9b16012/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/moto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d844493ff09380ee0f44705d0f3f2daa/AndroidManifest.xml:26:13-58

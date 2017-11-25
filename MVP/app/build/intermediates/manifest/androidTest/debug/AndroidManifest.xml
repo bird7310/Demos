@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ahacool.mvp.test">
+
+    <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="26" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.ahacool.mvp"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.ahacool.mvp"/>
+</manifest>
